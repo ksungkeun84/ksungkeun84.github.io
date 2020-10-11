@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Sungkeun Kim
 
 You can use the [editor on GitHub](https://github.com/danguria/ksungkeun84.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
