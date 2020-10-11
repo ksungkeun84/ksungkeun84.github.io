@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](file:///publications/ReViCe_SecDev20.pdf) and ![Image](src)
+[Link](http://ksungkeun84.github.io/publications/ReViCe_SecDev20.pdf) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
