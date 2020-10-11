@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](https://ksungkeun84.github.io/publications/ReViCe_SecDev20.pdf) and ![Image](src)
 ```
-
+[Link](https://ksungkeun84.github.io/publications/ReViCe_SecDev20.pdf)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
